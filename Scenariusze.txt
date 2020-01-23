@@ -37,3 +37,12 @@ Tworzenie drewnianego kilofa w Minecraft:
 4. Na stole rzemieślniczym ułóż dwa patyki, jeden w dolnym środkowym polu, drugi w środkowym polu następnie ułóż trzy deski w prawym górnym, górnym środkowym i lewym górnym polu
 5. Umieść kilof w ekwipunku
 
+
+Eksportowanie obiektu do pliku .obj w 3ds maxie:
+1. Zaznaczamy obiekt, który chcemy wyeksportować
+2. Rozwijamy menu główne w lewym górnym rogu
+3. Klikamy w strzałkę obok "Export" aby rozszerzyć menu
+4. Klikamy "Export Selected"
+5. Wybieramy lokalizacje pliku oraz wpisujemy jego nazwę
+6. Rozwijamy menu "Zapisz jako typ" i wybieramy z listy (*.OBJ)
+7. Klikamy Zapisz
